@@ -295,6 +295,10 @@
     .caja-proyectos.estudios {
       gap: 1.5rem;
     }
+    .boton-enviar {
+      background-color: var(--color-principal);
+      border: var(--color-principal);
+    }
     @media (max-width: 576px){
       .primera-caja {
         padding-top: 0;
